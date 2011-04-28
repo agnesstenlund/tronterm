@@ -1,15 +1,21 @@
 Terminal style from Tron Legacy
+Version 0.2
 by: Colin Devroe
 http://cdevroe.com/
 http://twitter.com/cdevroe/
 
-Since seeing Tron Legacy I've been sort of obsessed with the style of the UI on Flynn's computer. So, I thought - why not try to make my Terminal look as close to that as I can?
+Since seeing Tron Legacy I've been sort of obsessed with the style of the UI on Flynn's computer. So, I thought, why not try to make my Terminal look as close to that as I can?
 
 Screenshots
 Tron Legacy UI: https://img.skitch.com/20110110-d9pbj2m9pwiqmnq8fa1weyii78.jpg
 My Terminal: https://img.skitch.com/20110110-fw5464ei422kmag24umdpuw9ew.jpg
 
-Side note: It'd be great if the iPad's UI was theme-able and someone with considerable skills made a Tron Legacy UI but that isn't the world we live in. So, I'm stuck with this.
+The Font
+Thanks to Robin Willis (@robincwillis on Twitter) for notifying me [1] that the font used in Tron Legacy was Bitstream Vera Sans Mono, which you can get here [2].
 
-To do: 
-- Find the font used in the screenshot.
+[1] http://twitter.com/robincwillis/status/57156617669574656
+[2] http://www.dafont.com/bitstream-vera-mono.font
+
+
+
+Side note: It'd be great if the iPad's UI was theme-able and someone with considerable skills made a Tron Legacy UI but that isn't the world we live in. So, I'm stuck with this.
